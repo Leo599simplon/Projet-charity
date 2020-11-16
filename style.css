@@ -11,7 +11,11 @@
 
 .navbar-expand-lg .navbar-nav .nav-link {
     color: whitesmoke;
-    font-weight: 600;
+    font-weight: 610;
+}
+.navbar-brand {
+    color: whitesmoke;
+    font-weight: 610;
 }
 
 /* PRESENTATION */
