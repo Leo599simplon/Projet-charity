@@ -7,3 +7,9 @@
 .navbar {
     background-color: transparent;
 }
+
+/* PRESENTATION */
+#background-pres {
+    background-image: url(ressources/wallpaper\ présentation.jpeg);
+    background-size: cover;
+}
