@@ -1,5 +1,4 @@
 /* NAVBAR */
-
 .headers {
     padding: 0px;
 }
@@ -20,6 +19,12 @@
     background: url("ressources/wallpaper\ présentation.jpeg"),linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.0001) 85.4%);
     background-size: cover;
     height: 680px;
+}
+
+.display-4 {
+    font-size: 2.5rem;
+    font-weight: 300;
+    line-height: 1.2;
 }
 .jumbotron {
     background-color: transparent;
