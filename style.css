@@ -6,13 +6,20 @@
 
 .navbar {
     background-color: transparent;
-    padding-left: 250px;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    color: whitesmoke;
+    font-weight: 600;
 }
 
 /* PRESENTATION */
 #background-pres {
-    background-image: url(ressources/wallpaper\ présentation.jpeg);
+    background: url("ressources/wallpaper\ présentation.jpeg"),linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.0001) 85.4%);
     background-size: cover;
+    height: 680px;
 }
 .jumbotron {
     background-color: transparent;
