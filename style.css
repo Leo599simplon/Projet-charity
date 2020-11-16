@@ -29,3 +29,8 @@
 .jumbotron {
     background-color: transparent;
 }
+
+/* FORMULAIRE */
+.form-control {
+    font-weight: bold;
+}
